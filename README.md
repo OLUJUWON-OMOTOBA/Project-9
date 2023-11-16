@@ -1,3 +1,4 @@
+### Project Overview
 The "Insurance Analytics" Power BI project is designed to provide a comprehensive and visualized overview of key metrics within the insurance industry. This project involves collecting, analyzing, and visualizing data related to insurance companies, revenue streams, and policy-specific information to empower stakeholders with insights for strategic decision-making. Here's an overview of the key components and features that might be included in the "Insurance Analytics" Power BI project:
 
 1. **Data Sources:**
