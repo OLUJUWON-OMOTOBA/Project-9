@@ -42,3 +42,4 @@ The "Insurance Analytics" Power BI project is designed to provide a comprehensiv
     - Integration with other relevant systems, such as CRM platforms or underwriting systems, for a holistic view of insurance operations.
 
 The "Insurance Analytics" Power BI project serves as a valuable tool for insurance executives, analysts, and stakeholders to gain actionable insights into the industry's performance, identify areas for improvement, and make informed decisions to enhance operational efficiency and profitability.
+![Screenshot 2023-11-24 182324](https://github.com/OLUJUWON-OMOTOBA/Project-9/assets/134015058/b24febcd-e742-45fe-a502-f5e799691d76)
